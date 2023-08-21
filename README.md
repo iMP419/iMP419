@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iMP419
 - 👀 I’m interested in anime and sleep 
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on anything fun, productive.
+- 💞️ I’m looking to collaborate on anything fun & productive.
 - 📫 How to reach me... discord, check social links.
 
 <!---
