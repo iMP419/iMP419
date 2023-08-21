@@ -1,8 +1,5 @@
 
 ### Hi There ✌ I'm iMP
-
-#### Hello, Nice to meet you😁
-#### I'm Kumasi Batomate from Nigeria.
 #### I am an aspiring Data Analyst and Web developer. 
 
 
